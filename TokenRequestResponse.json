@@ -1,0 +1,18 @@
+{
+    "ResultCode": 1,
+    "ResultMessage": "Başarılı",
+    "Data": [
+      {
+        "OgretimYiliKodu": -46,
+        "OgretimYiliAdi": "2022-2023",
+        "DonemKodu": -20,
+        "DonemAdi": "BAHAR"
+      },
+      {
+        "OgretimYiliKodu": -46,
+        "OgretimYiliAdi": "2022-2023",
+        "DonemKodu": -10,
+        "DonemAdi": "GÜZ"
+      }
+    ]
+  }

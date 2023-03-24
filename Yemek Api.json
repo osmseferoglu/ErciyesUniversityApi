@@ -1,252 +1,247 @@
 [
-    {
-        "Id": 1942,
-        "Date": "2023-03-20T00:00:00",
-        "FoodMenuCategory": {
-            "Id": 1,
-            "Name": "Personel & Öğrenci Menüsü"
-        },
-        "FoodMenuTime": {
-            "Id": 1,
-            "Name": "Öğlen"
-        },
-        "FoodLists": [
-            {
-                "Id": 1031,
-                "Food": "AYRAN",
-                "Calory": 70,
-                "FoodListType": {
-                    "Id": 9,
-                    "Name": "İçecek"
-                }
-            },
-            {
-                "Id": 1036,
-                "Food": "PİLAV ÜSTÜ TAVUK DÖNER",
-                "Calory": 678,
-                "FoodListType": {
-                    "Id": 2,
-                    "Name": "Ana Yemek"
-                }
-            },
-            {
-                "Id": 1052,
-                "Food": "HAVUÇ SALATASI",
-                "Calory": 154,
-                "FoodListType": {
-                    "Id": 5,
-                    "Name": "Salata"
-                }
-            },
-            {
-                "Id": 2122,
-                "Food": "ŞEHRİYE ÇORBASI",
-                "Calory": 247,
-                "FoodListType": {
-                    "Id": 1,
-                    "Name": "Çorba"
-                }
+   {
+      "Id": 1946,
+      "Date": "2023-03-24T00:00:00",
+      "FoodMenuCategory": {
+         "Id": 1,
+         "Name": "Personel & Öğrenci Menüsü"
+      },
+      "FoodMenuTime": {
+         "Id": 1,
+         "Name": "Öğlen"
+      },
+      "FoodLists": [
+         {
+            "Id": 12,
+            "Food": "YOĞURT",
+            "Calory": 136,
+            "FoodListType": {
+               "Id": 4,
+               "Name": "Turşu/Yoğurt"
             }
-        ]
-    },
-    {
-        "Id": 1943,
-        "Date": "2023-03-21T00:00:00",
-        "FoodMenuCategory": {
-            "Id": 1,
-            "Name": "Personel & Öğrenci Menüsü"
-        },
-        "FoodMenuTime": {
-            "Id": 1,
-            "Name": "Öğlen"
-        },
-        "FoodLists": [
-            {
-                "Id": 2120,
-                "Food": "KARIŞIK HOŞAF",
-                "Calory": 234,
-                "FoodListType": {
-                    "Id": 10,
-                    "Name": "Tatlı"
-                }
-            },
-            {
-                "Id": 2121,
-                "Food": "PEYNİRLİ BÖREK",
-                "Calory": 336,
-                "FoodListType": {
-                    "Id": 3,
-                    "Name": "Ana Sıcak"
-                }
-            },
-            {
-                "Id": 2138,
-                "Food": "DÜĞÜN ÇORBA",
-                "Calory": 218,
-                "FoodListType": {
-                    "Id": 1,
-                    "Name": "Çorba"
-                }
-            },
-            {
-                "Id": 2164,
-                "Food": "KIYMALI KARNABAHAR",
-                "Calory": 216,
-                "FoodListType": {
-                    "Id": 2,
-                    "Name": "Ana Yemek"
-                }
+         },
+         {
+            "Id": 1050,
+            "Food": "MİLFÖY BÖREK",
+            "Calory": 426,
+            "FoodListType": {
+               "Id": 3,
+               "Name": "Ana Sıcak"
             }
-        ]
-    },
-    {
-        "Id": 1944,
-        "Date": "2023-03-22T00:00:00",
-        "FoodMenuCategory": {
-            "Id": 1,
-            "Name": "Personel & Öğrenci Menüsü"
-        },
-        "FoodMenuTime": {
-            "Id": 1,
-            "Name": "Öğlen"
-        },
-        "FoodLists": [
-            {
-                "Id": 19,
-                "Food": "MEVSİM SALATA",
-                "Calory": 53,
-                "FoodListType": {
-                    "Id": 5,
-                    "Name": "Salata"
-                }
-            },
-            {
-                "Id": 1046,
-                "Food": "ETLİ ANKARA TAVA",
-                "Calory": 616,
-                "FoodListType": {
-                    "Id": 2,
-                    "Name": "Ana Yemek"
-                }
-            },
-            {
-                "Id": 1072,
-                "Food": "SÜTLÜ TATLI",
-                "Calory": 247,
-                "FoodListType": {
-                    "Id": 10,
-                    "Name": "Tatlı"
-                }
-            },
-            {
-                "Id": 2119,
-                "Food": "DOMATES ÇORBA",
-                "Calory": 210,
-                "FoodListType": {
-                    "Id": 1,
-                    "Name": "Çorba"
-                }
+         },
+         {
+            "Id": 2124,
+            "Food": "EZOGELİN ÇORBA",
+            "Calory": 267,
+            "FoodListType": {
+               "Id": 1,
+               "Name": "Çorba"
             }
-        ]
-    },
-    {
-        "Id": 1945,
-        "Date": "2023-03-23T00:00:00",
-        "FoodMenuCategory": {
-            "Id": 1,
-            "Name": "Personel & Öğrenci Menüsü"
-        },
-        "FoodMenuTime": {
-            "Id": 1,
-            "Name": "Öğlen"
-        },
-        "FoodLists": [
-            {
-                "Id": 13,
-                "Food": "MEYVE",
-                "Calory": 120,
-                "FoodListType": {
-                    "Id": 8,
-                    "Name": "Meyve"
-                }
-            },
-            {
-                "Id": 19,
-                "Food": "MEVSİM SALATA",
-                "Calory": 53,
-                "FoodListType": {
-                    "Id": 5,
-                    "Name": "Salata"
-                }
-            },
-            {
-                "Id": 2134,
-                "Food": "YAYLA ÇORBA",
-                "Calory": 184,
-                "FoodListType": {
-                    "Id": 1,
-                    "Name": "Çorba"
-                }
-            },
-            {
-                "Id": 2169,
-                "Food": "PİLİÇ ADANA KÖFTE+GARNT",
-                "Calory": 465,
-                "FoodListType": {
-                    "Id": 2,
-                    "Name": "Ana Yemek"
-                }
+         },
+         {
+            "Id": 2159,
+            "Food": "ETLİ TAZE FASULYE",
+            "Calory": 305,
+            "FoodListType": {
+               "Id": 2,
+               "Name": "Ana Yemek"
             }
-        ]
-    },
-    {
-        "Id": 1946,
-        "Date": "2023-03-24T00:00:00",
-        "FoodMenuCategory": {
-            "Id": 1,
-            "Name": "Personel & Öğrenci Menüsü"
-        },
-        "FoodMenuTime": {
-            "Id": 1,
-            "Name": "Öğlen"
-        },
-        "FoodLists": [
-            {
-                "Id": 12,
-                "Food": "YOĞURT",
-                "Calory": 136,
-                "FoodListType": {
-                    "Id": 4,
-                    "Name": "Turşu/Yoğurt"
-                }
-            },
-            {
-                "Id": 1050,
-                "Food": "MİLFÖY BÖREK",
-                "Calory": 426,
-                "FoodListType": {
-                    "Id": 3,
-                    "Name": "Ana Sıcak"
-                }
-            },
-            {
-                "Id": 2124,
-                "Food": "EZOGELİN ÇORBA",
-                "Calory": 267,
-                "FoodListType": {
-                    "Id": 1,
-                    "Name": "Çorba"
-                }
-            },
-            {
-                "Id": 2159,
-                "Food": "ETLİ TAZE FASULYE",
-                "Calory": 305,
-                "FoodListType": {
-                    "Id": 2,
-                    "Name": "Ana Yemek"
-                }
+         }
+      ]
+   },
+   {
+      "Id": 1947,
+      "Date": "2023-03-24T00:00:00",
+      "FoodMenuCategory": {
+         "Id": 1,
+         "Name": "Personel & Öğrenci Menüsü"
+      },
+      "FoodMenuTime": {
+         "Id": 2,
+         "Name": "Akşam"
+      },
+      "FoodLists": [
+         {
+            "Id": 12,
+            "Food": "YOĞURT",
+            "Calory": 136,
+            "FoodListType": {
+               "Id": 4,
+               "Name": "Turşu/Yoğurt"
             }
-        ]
-    }
+         },
+         {
+            "Id": 1027,
+            "Food": "MAKARNA ",
+            "Calory": 328,
+            "FoodListType": {
+               "Id": 3,
+               "Name": "Ana Sıcak"
+            }
+         },
+         {
+            "Id": 2095,
+            "Food": "SEBZELİ ET SOTE",
+            "Calory": 449,
+            "FoodListType": {
+               "Id": 2,
+               "Name": "Ana Yemek"
+            }
+         },
+         {
+            "Id": 2165,
+            "Food": "MANTAR ÇORBA",
+            "Calory": 177,
+            "FoodListType": {
+               "Id": 1,
+               "Name": "Çorba"
+            }
+         },
+         {
+            "Id": 2248,
+            "Food": "İFTAR SADECE ÖĞRENCİLER İÇİNDİR",
+            "Calory": 0,
+            "FoodListType": {
+               "Id": 9,
+               "Name": "İçecek"
+            }
+         }
+      ]
+   },
+   {
+      "Id": 1948,
+      "Date": "2023-03-25T00:00:00",
+      "FoodMenuCategory": {
+         "Id": 1,
+         "Name": "Personel & Öğrenci Menüsü"
+      },
+      "FoodMenuTime": {
+         "Id": 2,
+         "Name": "Akşam"
+      },
+      "FoodLists": [
+         {
+            "Id": 12,
+            "Food": "YOĞURT",
+            "Calory": 136,
+            "FoodListType": {
+               "Id": 4,
+               "Name": "Turşu/Yoğurt"
+            }
+         },
+         {
+            "Id": 13,
+            "Food": "MEYVE",
+            "Calory": 120,
+            "FoodListType": {
+               "Id": 8,
+               "Name": "Meyve"
+            }
+         },
+         {
+            "Id": 1024,
+            "Food": "ŞEHRİYELİ PİRİNÇ PİLAVI",
+            "Calory": 380,
+            "FoodListType": {
+               "Id": 3,
+               "Name": "Ana Sıcak"
+            }
+         },
+         {
+            "Id": 2100,
+            "Food": "ETLİ BEZELYE",
+            "Calory": 485,
+            "FoodListType": {
+               "Id": 2,
+               "Name": "Ana Yemek"
+            }
+         },
+         {
+            "Id": 2148,
+            "Food": "TAVUK ÇORBA",
+            "Calory": 202,
+            "FoodListType": {
+               "Id": 1,
+               "Name": "Çorba"
+            }
+         },
+         {
+            "Id": 2248,
+            "Food": "İFTAR SADECE ÖĞRENCİLER İÇİNDİR",
+            "Calory": 0,
+            "FoodListType": {
+               "Id": 9,
+               "Name": "İçecek"
+            }
+         }
+      ]
+   },
+   {
+      "Id": 1949,
+      "Date": "2023-03-26T00:00:00",
+      "FoodMenuCategory": {
+         "Id": 1,
+         "Name": "Personel & Öğrenci Menüsü"
+      },
+      "FoodMenuTime": {
+         "Id": 2,
+         "Name": "Akşam"
+      },
+      "FoodLists": [
+         {
+            "Id": 10,
+            "Food": "SEBZELİ BULGUR PİLAVI",
+            "Calory": 364,
+            "FoodListType": {
+               "Id": 3,
+               "Name": "Ana Sıcak"
+            }
+         },
+         {
+            "Id": 1041,
+            "Food": "PİLİÇ ÇITIR GÖĞÜS",
+            "Calory": 177,
+            "FoodListType": {
+               "Id": 2,
+               "Name": "Ana Yemek"
+            }
+         },
+         {
+            "Id": 1083,
+            "Food": "ÇOBAN SALATA",
+            "Calory": 45,
+            "FoodListType": {
+               "Id": 5,
+               "Name": "Salata"
+            }
+         },
+         {
+            "Id": 1086,
+            "Food": "TAHİN HELVA",
+            "Calory": 390,
+            "FoodListType": {
+               "Id": 10,
+               "Name": "Tatlı"
+            }
+         },
+         {
+            "Id": 2119,
+            "Food": "DOMATES ÇORBA",
+            "Calory": 210,
+            "FoodListType": {
+               "Id": 1,
+               "Name": "Çorba"
+            }
+         },
+         {
+            "Id": 2248,
+            "Food": "İFTAR SADECE ÖĞRENCİLER İÇİNDİR",
+            "Calory": 0,
+            "FoodListType": {
+               "Id": 9,
+               "Name": "İçecek"
+            }
+         }
+      ]
+   }
 ]
