@@ -1,3 +1,0 @@
-YemekApi : "https://erciyes.edu.tr/api/yemek/personel"
-Ogrenci Sistem : "https://mobilservis.erciyes.edu.tr"
-Duyuru : 

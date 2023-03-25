@@ -1,0 +1,10 @@
+Servies :
+Canteen : "https://erciyes.edu.tr/api/yemek/personel"
+Student Api : "https://mobilservis.erciyes.edu.tr"
+
+News / Announcements:
+General Announcement : "https://erciyes.edu.tr/api/duyuru/genel?lang=tr&page=0"
+Image Slider : "https://erciyes.edu.tr/api/slider/list?lang=tr&page=0"
+Event Announcement : "https://erciyes.edu.tr/api/etkinlik/guncel"
+Academic News : "https://erciyes.edu.tr/api/haberler/akademik?lang=tr&page=0"
+Latest news : " https://erciyes.edu.tr/api/haberler/guncel?lang=tr&page=0"
