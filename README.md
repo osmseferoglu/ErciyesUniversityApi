@@ -40,9 +40,5 @@ API endpoint: https://erciyes.edu.tr/api/haberler/guncel?lang=tr&page=0
 
 This API service provides the latest news related to Erciyes University. The endpoint returns JSON data containing the news details, including the news date, title, and description.
 
-Conclusion
-
-These API services provide valuable information about Erciyes University to students, staff, and the general public. 
-Feel free to use these APIs for your application development needs. If you have any questions or suggestions, please contact us.
 
 This project is licensed under the MIT License.
