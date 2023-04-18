@@ -1,0 +1,647 @@
+{
+   "faculties": [
+      {
+         "id": 1,
+         "name": "Diş Hekimliği Fakültesi",
+         "departments": [
+            {
+               "id": 1,
+               "name": "DİŞ HEKİMLİĞİ"
+            }
+         ]
+      },
+      {
+         "id": 2,
+         "name": "Eczacılık Fakültesi",
+         "departments": [
+            {
+               "id": 1,
+               "name": "ECZACILIK"
+            }
+         ]
+      },
+      {
+         "id": 3,
+         "name": "Eğitim Fakültesi",
+         "departments": [
+            {
+               "name": "ALMANCA ÖĞRETMENLİĞİ",
+               "id": 1
+            },
+            {
+               "name": "FEN BİLGİSİ ÖĞRETMENLİĞİ",
+               "id": 2
+            },
+            {
+               "name": "FEN BİLGİSİ ÖĞRETMENLİĞİ (İÖ)",
+               "id": 3
+            },
+            {
+               "name": "İLKÖĞRETİM DİN KÜL.VE AHLAK BİL.ÖĞR.(İÖ)",
+               "id": 4
+            },
+            {
+               "name": "İLKÖĞRETİM DİN KÜLTÜRÜ VE AHLAK BİL.ÖĞR.",
+               "id": 5
+            },
+            {
+               "name": "İLKÖĞRETİM MATEMATİK ÖĞRETMENLİĞİ",
+               "id": 6
+            },
+            {
+               "name": "İLKÖĞRETİM MATEMATİK ÖĞRETMENLİĞİ (İ.Ö)",
+               "id": 7
+            },
+            {
+               "name": "İNGİLİZCE ÖĞRETMENLİĞİ",
+               "id": 8
+            },
+            {
+               "name": "İNGİLİZCE ÖĞRETMENLİĞİ (İÖ)",
+               "id": 9
+            },
+            {
+               "name": "REHBERLİK VE PSİKOLOJİK DANIŞMANLIK",
+               "id": 10
+            },
+            {
+               "name": "REHBERLİK VE PSİKOLOJİK DANIŞMANLIK(İÖ)",
+               "id": 11
+            },
+            {
+               "name": "SINIF ÖĞRETMENLİĞİ",
+               "id": 12
+            },
+            {
+               "name": "SOSYAL BİLGİLER ÖĞRETMENLİĞİ",
+               "id": 13
+            },
+            {
+               "name": "SOSYAL BİLGİLER ÖĞRETMENLİĞİ (İÖ)",
+               "id": 14
+            },
+            {
+               "name": "TÜRKÇE ÖĞRETMENLİĞİ",
+               "id": 15
+            },
+            {
+               "name": "TÜRKÇE ÖĞRETMENLİĞİ (İÖ)",
+               "id": 16
+            }
+         ]
+      },
+      {
+         "id": 4,
+         "name": "Edebiyat Fakültesi",
+         "departments": [
+            {
+               "id": 1,
+               "name": "ÇERKEZ DİLİ VE KÜLTÜRÜ"
+            },
+            {
+               "id": 2,
+               "name": "ÇİN DİLİ VE EDEBİYATI"
+            },
+            {
+               "id": 3,
+               "name": "EĞİTİM PROGRAMLARI VE ÖĞRETİM"
+            },
+            {
+               "id": 4,
+               "name": "ERMENİ DİLİ VE KÜLTÜRÜ"
+            },
+            {
+               "id": 5,
+               "name": "FELSEFE"
+            },
+            {
+               "id": 6,
+               "name": "FELSEFE (İÖ)"
+            },
+            {
+               "id": 7,
+               "name": "İBRANİ DİLİ VE KÜLTÜRÜ"
+            },
+            {
+               "id": 8,
+               "name": "İNGİLİZ DİLİ VE EDEBİYATI"
+            },
+            {
+               "id": 9,
+               "name": "İNGİLİZ DİLİ VE EDEBİYATI (İÖ)"
+            },
+            {
+               "id": 10,
+               "name": "JAPON DİLİ VE EDEBİYATI"
+            },
+            {
+               "id": 11,
+               "name": "KORE DİLİ VE EDEBİYATI"
+            },
+            {
+               "id": 12,
+               "name": "KORE DİLİ VE EDEBİYATI (İÖ)"
+            },
+            {
+               "id": 13,
+               "name": "ORTAK SEÇMELİ DERSLER BÖLÜMÜ"
+            },
+            {
+               "id": 14,
+               "name": "RUS DİLİ VE EDEBİYATI"
+            },
+            {
+               "id": 15,
+               "name": "RUS DİLİ VE EDEBİYATI (İÖ)"
+            },
+            {
+               "id": 16,
+               "name": "SANAT TARİHİ"
+            },
+            {
+               "id": 17,
+               "name": "SANAT TARİHİ (İÖ)"
+            },
+            {
+               "id": 18,
+               "name": "SOSYOLOJİ"
+            },
+            {
+               "id": 19,
+               "name": "SOSYOLOJİ (İÖ)"
+            },
+            {
+               "id": 20,
+               "name": "TARİH"
+            },
+            {
+               "id": 21,
+               "name": "TARİH (İÖ)"
+            },
+            {
+               "id": 22,
+               "name": "TÜRK DİLİ VE EDEBİYATI"
+            },
+            {
+               "id": 23,
+               "name": "TÜRK DİLİ VE EDEBİYATI (İÖ)"
+            },
+            {
+               "id": 24,
+               "name": "TÜRK HALKBİLİMİ"
+            }
+         ]
+      },
+      {
+         "id": 5,
+         "name": "Fen Fakültesi",
+         "departments": [
+            {
+               "id": 1,
+               "name": "ASTRONOMİ VE UZAY BİLİMLERİ"
+            },
+            {
+               "id": 2,
+               "name": "BİYOLOJİ"
+            },
+            {
+               "id": 3,
+               "name": "BİYOLOJİ (İÖ)"
+            },
+            {
+               "id": 4,
+               "name": "FİZİK"
+            },
+            {
+               "id": 5,
+               "name": "FİZİK (İÖ)"
+            },
+            {
+               "id": 6,
+               "name": "KİMYA"
+            },
+            {
+               "id": 7,
+               "name": "KİMYA (İÖ)"
+            },
+            {
+               "id": 8,
+               "name": "MATEMATİK"
+            },
+            {
+               "id": 9,
+               "name": "MATEMATİK (İÖ)"
+            }
+         ]
+      },
+      {
+         "id": 6,
+         "name": "Güzel Sanatlar Fakültesi",
+         "departments": [
+            {
+               "id": 1,
+               "name": "ÇALGI EĞİTİMİ"
+            },
+            {
+               "id": 2,
+               "name": "GELENEKSEL TÜRK MÜZİĞİ"
+            },
+            {
+               "id": 3,
+               "name": "GRAFİK TASARIMI"
+            },
+            {
+               "id": 4,
+               "name": "HEYKEL"
+            },
+            {
+               "id": 5,
+               "name": "MÜZİK"
+            },
+            {
+               "id": 6,
+               "name": "RESİM"
+            },
+            {
+               "id": 7,
+               "name": "SERAMİK VE CAM"
+            }
+         ]
+      },
+      {
+         "id": 7,
+         "name": "Havacılık ve Uzay Bilimleri Fakültesi",
+         "departments": [
+            {
+               "id": 1,
+               "name": "HAVACILIK ELEKTRİK VE ELEKTRONİĞİ"
+            },
+            {
+               "id": 2,
+               "name": "HAVACILIK ELEKTRİK VE ELEKTRONİĞİ(İÖ)"
+            },
+            {
+               "id": 3,
+               "name": "HAVACILIK YÖNETİMİ"
+            },
+            {
+               "id": 4,
+               "name": "HAVACILIK YÖNETİMİ (İÖ)"
+            },
+            {
+               "id": 5,
+               "name": "UÇAK GÖVDE VE MOTOR BAKIMI"
+            },
+            {
+               "id": 6,
+               "name": "UÇAK GÖVDE VE MOTOR BAKIMI(İÖ)"
+            },
+            {
+               "id": 7,
+               "name": "UÇAK MÜHENDİSLİĞİ"
+            },
+            {
+               "id": 8,
+               "name": "UZAY MÜHENDİSLİĞİ"
+            }
+         ]
+      },
+      {
+         "id": 8,
+         "name": "Hukuk Fakültesi",
+         "departments": [
+            {
+               "id": 1,
+               "name": "Hukuk"
+            }
+         ]
+      },
+      {
+         "id": 9,
+         "name": "İlahiyat Fakültesi",
+         "departments": [
+            {
+               "id": 1,
+               "name": "İLAHİYAT"
+            },
+            {
+               "id": 2,
+               "name": "İLAHİYAT (İÖ)"
+            },
+            {
+               "id": 3,
+               "name": "İLKÖĞR. DİN KÜL. VE AHLAK BİL.ÖĞR.(İ.Ö.)"
+            },
+            {
+               "id": 4,
+               "name": "İLKÖĞRETİM DİN KÜLTÜRÜ VE AHLAK BİL.ÖĞR."
+            }
+         ]
+      },
+      {
+         "id": 10,
+         "name": "İletişim Fakültesi",
+         "departments": [
+            {
+               "id": 1,
+               "name": "GAZETECİLİK"
+            },
+            {
+               "id": 2,
+               "name": "GAZETECİLİK (İÖ)"
+            },
+            {
+               "id": 3,
+               "name": "GAZETECİLİK UZAKTAN ÖĞRETİM"
+            },
+            {
+               "id": 4,
+               "name": "HALKLA İLİŞKİLER VE TANITIM"
+            },
+            {
+               "id": 5,
+               "name": "HALKLA İLİŞKİLER VE TANITIM (İÖ)"
+            },
+            {
+               "id": 6,
+               "name": "HALKLA İLİŞKİLER VE TANITIM UZAKTAN ÖĞRETİM"
+            },
+            {
+               "id": 7,
+               "name": "RADYO, TELEVİZYON VE SİNEMA"
+            },
+            {
+               "id": 8,
+               "name": "RADYO, TELEVİZYON VE SİNEMA (İÖ)"
+            },
+            {
+               "id": 9,
+               "name": "RADYO, TELEVİZYON VE SİNEMA UZAKTAN ÖĞRETİM"
+            }
+         ]
+      },
+      {
+         "id": 11,
+         "name": "İktisadi ve İdari Bilimler Fakültesi",
+         "departments": [
+            {
+               "name": "İKTİSAT",
+               "id": 1
+            },
+            {
+               "name": "İKTİSAT (İÖ)",
+               "id": 2
+            },
+            {
+               "name": "İŞLETME",
+               "id": 3
+            },
+            {
+               "name": "İŞLETME (İÖ)",
+               "id": 4
+            },
+            {
+               "name": "MALİYE",
+               "id": 5
+            },
+            {
+               "name": "MALİYE (İÖ)",
+               "id": 6
+            },
+            {
+               "name": "SİYASET BİLİMİ VE KAMU YÖNETİMİ",
+               "id": 7
+            },
+            {
+               "name": "SİYASET BİLİMİ VE ULUSLARARASI İLİŞKİLER(İNGİLİZCE)",
+               "id": 8
+            },
+            {
+               "name": "ULUSLARARASI İLİŞKİLER",
+               "id": 9
+            },
+            {
+               "name": "ULUSLARARASI TİCARET VE İŞLETMECİLİK",
+               "id": 10
+            }
+         ]
+      },
+      {
+         "id": 12,
+         "name": "Mimarlık Fakültesi",
+         "departments": []
+      },
+      {
+         "id": 13,
+         "name": "Mühendislik Fakültesi",
+         "departments": [
+            {
+               "name": "Bilgisayar Mühendisliği",
+               "id": 1
+            },
+            {
+               "name": "Bilgisayar Mühendisliği (İÖ)",
+               "id": 2
+            },
+            {
+               "name": "Biyomedikal Mühendisliği",
+               "id": 3
+            },
+            {
+               "name": "Biyomedikal Mühendisliği (İÖ)",
+               "id": 4
+            },
+            {
+               "name": "Çevre Mühendisliği",
+               "id": 5
+            },
+            {
+               "name": "Çevre Mühendisliği (İÖ)",
+               "id": 6
+            },
+            {
+               "name": "Elektrik-Elektronik Mühendisliği",
+               "id": 7
+            },
+            {
+               "name": "Elektrik-Elektronik Mühendisliği (İÖ)",
+               "id": 8
+            },
+            {
+               "name": "Endüstri Mühendisliği",
+               "id": 9
+            },
+            {
+               "name": "Endüstri Mühendisliği (İÖ)",
+               "id": 10
+            },
+            {
+               "name": "Endüstriyel Tasarım Mühendisliği",
+               "id": 11
+            },
+            {
+               "name": "Endüstriyel Tasarım Mühendisliği (İÖ)",
+               "id": 12
+            },
+            {
+               "name": "Enerji Sistemleri Mühendisliği",
+               "id": 13
+            },
+            {
+               "name": "Enerji Sistemleri Mühendisliği (İÖ)",
+               "id": 14
+            },
+            {
+               "name": "Gıda Mühendisliği",
+               "id": 15
+            },
+            {
+               "name": "Gıda Mühendisliği (İÖ)",
+               "id": 16
+            },
+            {
+               "name": "Harita Mühendisliği",
+               "id": 17
+            },
+            {
+               "name": "Harita Mühendisliği (İÖ)",
+               "id": 18
+            },
+            {
+               "name": "İnşaat Mühendisliği",
+               "id": 19
+            },
+            {
+               "name": "İnşaat Mühendisliği (İÖ)",
+               "id": 20
+            },
+            {
+               "name": "Makine Mühendisliği",
+               "id": 21
+            },
+            {
+               "name": "Makine Mühendisliği (İÖ)",
+               "id": 22
+            },
+            {
+               "name": "Malzeme Bilimi ve Mühendisliği",
+               "id": 23
+            },
+            {
+               "name": "Malzeme Bilimi ve Mühendisliği (İÖ)",
+               "id": 24
+            },
+            {
+               "name": "Mekatronik Mühendisliği",
+               "id": 25
+            },
+            {
+               "name": "Mekatronik Mühendisliği (İÖ)",
+               "id": 26
+            },
+            {
+               "name": "TEKSTİL MÜHENDİSLİĞİ",
+               "id": 27
+            },
+            {
+               "name": "YAZILIM MÜHENDİSLİĞİ",
+               "id": 28
+            }
+         ]
+      },
+      {
+         "id": 14,
+         "name": "Sağlık Bilimleri Fakültesi",
+         "departments": [
+            {
+               "name": "BESLENME VE DİYETETİK",
+               "id": 1
+            },
+            {
+               "name": "HEMŞİRELİK",
+               "id": 2
+            }
+         ]
+      },
+      {
+         "id": 15,
+         "name": "Tıp Fakültesi",
+         "departments": [
+            {
+               "name": "TIP",
+               "id": 1
+            }
+         ]
+      },
+      {
+         "id": 16,
+         "name": "Turizm Fakültesi",
+         "departments": [
+            {
+               "id": 1,
+               "name": "Gastronomi ve Mutfak Sanatları"
+            },
+            {
+               "id": 2,
+               "name": "Turizm İşletmeciliği"
+            },
+            {
+               "id": 3,
+               "name": "Turizm İşletmeciliği (İÖ)"
+            },
+            {
+               "id": 4,
+               "name": "Turizm Rehberliği"
+            }
+         ]
+      },
+      {
+         "id": 17,
+         "name": "Veteriner Fakültesi",
+         "departments": [
+            {
+               "id": 1,
+               "name": "Veteriner"
+            }
+         ]
+      },
+      {
+         "id": 18,
+         "name": "Ziraat Fakültesi",
+         "departments": [
+            {
+               "name": "BAHÇE BİTKİLERİ",
+               "id": 1
+            },
+            {
+               "name": "BİTKİ KORUMA",
+               "id": 2
+            },
+            {
+               "name": "BİYOSİSTEM MÜHENDİSLİĞİ",
+               "id": 3
+            },
+            {
+               "name": "TARIMSAL BİYOTEKNOLOJİ",
+               "id": 4
+            },
+            {
+               "name": "TARLA BİTKİLERİ",
+               "id": 5
+            },
+            {
+               "name": "TOPRAK BİLİMİ VE BİTKİ BESLEME",
+               "id": 6
+            },
+            {
+               "name": "ZİRAAT MÜHENDİSLİĞİ",
+               "id": 7
+            },
+            {
+               "name": "ZOOTEKNİ",
+               "id": 8
+            }
+         ]
+      }
+   ]
+}
